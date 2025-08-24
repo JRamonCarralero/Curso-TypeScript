@@ -20,3 +20,5 @@ let secondPerson: Person = {
     charge: 1,
     sayHello: () => "hola",
 };
+
+export {}
